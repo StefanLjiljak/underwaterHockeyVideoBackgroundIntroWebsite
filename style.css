@@ -13,6 +13,7 @@
 body {
     font-family: "Open Sans", sans-serif;
     line-height: 1.5;
+    cursor: url(http://cur.cursors-4u.net/sports/spo-1/spo59.cur), auto !important;
 }
 
 a {
@@ -88,6 +89,7 @@ h1 {
 
 .btn:hover {
     transform: scale(0.98);
+    cursor: pointer;
 }
 
 #about {
@@ -109,3 +111,5 @@ h1 {
 .social a {
     margin: 0 5px;
 }
+
+
